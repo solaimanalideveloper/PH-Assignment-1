@@ -39,7 +39,7 @@ nav ul {
   align-items: center;
   gap: 18px;
   color: #575757;
-  font-size: 23px;
+  font-size: 20px;
 }
 .logo img {
   width: 100%;
@@ -118,11 +118,11 @@ header {
   border-radius: 8px;
   color: #ffffff;
   cursor: pointer;
-  margin-top: 300px;
+  margin-top: 370px;
   bottom: 45px;
   left: 45%;
   font-weight: bold;
-  font-size: 33px;
+  font-size: 30px;
 }
 
 /* /* banar section end  */
